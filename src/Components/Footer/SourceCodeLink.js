@@ -5,7 +5,7 @@ function SourceCodeLink() {
   return (
     <a
       className="sourceCodeLink"
-      href="https://github.com/jackparsonss/jackparsonss.github.io"
+      href="https://github.com/ImErPratik/ImErPratik"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="=Website GitHub Repository"

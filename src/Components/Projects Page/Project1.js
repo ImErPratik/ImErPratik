@@ -45,16 +45,16 @@ function Project1({ id }) {
         )}
 
         <div data-aos="fade-left" className="project__right">
-          <h3 className="project__title">Myntra Clone</h3>
+          <h3 className="project__title">Cult.fit Clone</h3>
           <p className="project__description project__body">
-          Myntra is a <span className="project__specialText"> one stop shop</span> for all your fashion and lifestyle needs.{" "}
+          Cult.fit is a <span className="project__specialText"> one stop shop</span> workouts fun, daily food healthy & tasty, mental fitness easy with yoga & meditation, Medical {" "}
             <span className="project__specialText">
-            Being India's largest e-commerce store  
+            
             </span>
-             {" "} and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.{" "}
+             {" "}& lifestyle care hassle-free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.{" "}
             <span className="project__specialText">The brand is </span> making a conscious effort to bring the power of {" "}
-            <span className="project__specialText">fashion to shoppers with </span>
-            an array of the latest and trendiest products{" "}
+            <span className="project__specialText"></span>
+            {" "}
             <span className="project__specialText">available in the country.</span>
             {"\n"}Cloned it with a team of 4 members executed in 5 days!
           </p>
@@ -63,7 +63,7 @@ function Project1({ id }) {
           </p>
           <a
             className="project__sourceCode"
-            href="https://github.com/jatindevnani/Myntra-clone"
+            href="https://github.com/ROY-AMAN/Cult-Fit-clone"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="=Website GitHub Repository"
@@ -73,7 +73,7 @@ function Project1({ id }) {
           </a>
           <a
             className="project__sourceCode"
-            href="https://myntra-x1.netlify.app/"
+            href="https://charming-kleicha-f7531f.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="=Website GitHub Repository"

@@ -19,7 +19,7 @@ function Contact() {
         <div className="contact__option">
           <FaLinkedin className="contact__logo" size={45} />
           <a
-            href="https://www.linkedin.com/in/jatin-devnani/"
+            href="https://www.linkedin.com/in/pratik-jawanjal-264209193/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="my Linkedin"
