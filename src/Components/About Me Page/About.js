@@ -129,7 +129,7 @@ function About() {
       </div>
       <img
         className="about__headshot"
-        src="https://media-exp1.licdn.com/dms/image/C4E03AQGYs-oJQ1xtmA/profile-displayphoto-shrink_800_800/0/1649077129852?e=1656547200&v=beta&t=aAzjgz60ij9p97363j7gORb_toolfBqVI4-FXjw4OF8"
+        src="https://media-exp1.licdn.com/dms/image/C5603AQFcN4D0VcMmyg/profile-displayphoto-shrink_800_800/0/1649518983616?e=1659571200&v=beta&t=BXXzOGG3mBWtItbCCXVRg1T-Gk2eHj-hOAVFtlWseOc"
         alt="Brand Logo"
         width="300"
         height="300"

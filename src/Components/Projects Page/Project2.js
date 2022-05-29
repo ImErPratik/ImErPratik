@@ -20,7 +20,7 @@ function Project2() {
           </p>
           <a
             className="project__sourceCodeDark"
-            href="https://github.com/jatindevnani/Youtube-Clone"
+            href="https://github.com/ImErPratik/Clone-of-YouTube.com"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="=Website GitHub Repository"

@@ -9,8 +9,8 @@ function Project3() {
       <div className="project__main">
         <img
           className="project__image"
-          src="/images/flavour_flow_image_large.png"
-          srcset="/images/flavour_flow_image_large.png 750w, /images/flavour_flow_image_large.png 1468w"
+          src="/images/shop.png"
+          srcset="/images/shop.png 750w, /images/shop.png 1468w"
           sizes="50vw"
           alt="Flavout Flow Landing Page"
           width="50%"
@@ -18,13 +18,13 @@ function Project3() {
           loading="lazy"
         />
         <div data-aos="fade-left" className="project__right">
-          <h3 className="project__title">Weather Forecast App</h3>
+          <h3 className="project__title">Clone of Shop.com</h3>
           <p className="project__description project__body">
-            A <span className="project__specialText">Weather Forecast</span> project
-            created as an assignment during the bootcamp. Allows users to{" "}
-            <span className="project__specialText">view weather forecast</span> based on {" "}
-            <span className="project__specialText">location</span>. It uses the API to get weather Forecast
-            and shows the upcoming weather for the next 7 days. {" "}
+            A <span className="project__specialText">Shop.com</span> project
+            created as an Unit Project during the bootcamp. Allows users to{" "}
+            <span className="project__specialText">view E-commerce Website</span> based on {" "}
+            <span className="project__specialText">location</span>. It uses the API
+            and shows the Verious thing like dresses,necklace,etc. {" "}
             
           </p>
           <p className="project__tech project__body">
@@ -32,7 +32,7 @@ function Project3() {
           </p>
           <a
             className="project__sourceCode"
-            href="https://github.com/ImErPratik/Weather-Report"
+            href="https://github.com/ImErPratik/SHOP.COM"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="=Website GitHub Repository"
@@ -42,7 +42,7 @@ function Project3() {
           </a>
           <a
             className="project__sourceCode"
-            href="https://weather-forecast-app.vercel.app/"
+            href="https://vigilant-hodgkin-32192f.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="=Website GitHub Repository"

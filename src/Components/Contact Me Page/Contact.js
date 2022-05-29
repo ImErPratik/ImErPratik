@@ -12,7 +12,7 @@ function Contact() {
         </p>
         <div className="contact__option">
           <FaMailBulk className="contact__logo" size={45} />
-          <a href="mailto: jparsons@ualberta.ca">
+          <a href="mailto: pratikjawanjal34@gmail.com">
             <span className="contact__text">pratikjawanjal34@gmail.com</span>
           </a>
         </div>

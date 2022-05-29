@@ -2,7 +2,7 @@ function BlogButton() {
   return (
     <a
       className="navItem"
-      href="https://jackparsonss.hashnode.dev/"
+      href="https://medium.com/@pratikjawanjal34"
       target="_blank"
       rel="noopener noreferrer"
     >

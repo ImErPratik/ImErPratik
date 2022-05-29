@@ -33,7 +33,7 @@ function Project1({ id }) {
             /> */}
             <img
               className="project__image"
-              src="/images/myntra.png"
+              src="/images/cultFit.png"
               alt="Health Fusion Project Add Page"
               width="50%"
               height="auto"
