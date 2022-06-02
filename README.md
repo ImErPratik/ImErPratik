@@ -1,1 +1,8 @@
+## Hey 👋, This is PRATIK JAWANJAL
+[![Gmail Badge](https://img.shields.io/badge/-pratikjawanjal34@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikjawanjal34@gmail.com)](mailto:pratikjawanjal34@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-pratikjawanjal-264209193-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikjawanjal-264209193/)](https://www.linkedin.com/in/pratikjawanjal-264209193/) [![Github Badge](https://img.shields.io/badge/-ImErPratik-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ImErPratik/)](https://www.github.com/ImErPratik/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=pratik-jawanjal-portfolio.netlify.app/)](pratik-jawanjal-portfolio.netlify.app/) <p align='left'>I'm a passionate Full Stack Web Developer specilized in Backend JAVA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1q7CMxpJ5hvqDFe0kv9NzhK0M2TzKg_0J/edit?usp=sharing&ouid=113928785396180435484&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ImErPratik alt=ImErPratik /> </p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ImErPratik&show_icons=true&include_all_commits=true)](https://github.com/ImErPratik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImErPratik&layout=compact)](https://github.com/ImErPratik/github-readme-stats)
